@@ -1,0 +1,5 @@
+Day 1 Task:
+- Learn Working Directory
+- Learn Staging Area
+- Learn Local Repository
+- Practice Git status
