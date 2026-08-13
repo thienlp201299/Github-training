@@ -1,0 +1,3 @@
+Name: Thien
+Study: Git and GitHub
+Goal: become a better developer
