@@ -1,3 +1,4 @@
 Hello Git
 This is First Day I Learning Git
 I started at 5 P.M
+Today I understand Git staging better
