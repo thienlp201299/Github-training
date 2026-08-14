@@ -9,3 +9,8 @@ Day 2 Task
 - Learn origin
 - Learn git push
 - Learn upstream branch
+
+Day 2 Final Practice
+- Practice git push
+- Practice git fetch
+- Practice git pull
