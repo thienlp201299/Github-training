@@ -3,3 +3,4 @@ Study: Git and GitHub
 Goal: become a better developer
 Day 2: Learning Git Remote
 Day 2: Final remote practice completed
+Final Lab Day 2 completed on remote.
