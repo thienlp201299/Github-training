@@ -3,3 +3,9 @@ Day 1 Task:
 - Learn Staging Area
 - Learn Local Repository
 - Practice Git status
+
+Day 2 Task
+- Learn Remote Repository
+- Learn origin
+- Learn git push
+- Learn upstream branch
