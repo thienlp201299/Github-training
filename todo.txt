@@ -14,3 +14,8 @@ Day 2 Final Practice
 - Practice git push
 - Practice git fetch
 - Practice git pull
+
+Day 2 Final Lab
+- Practice local to Remote
+- Practice remote to local
+- Practice fetch vs pull
